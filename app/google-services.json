@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "979544264587",
+    "firebase_url": "https://cald-30dea.firebaseio.com",
+    "project_id": "cald-30dea",
+    "storage_bucket": "cald-30dea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979544264587:android:6a029d386a9cb7c1",
+        "android_client_info": {
+          "package_name": "com.avexdev.cald"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979544264587-aa0d312dcf6un49qkcdbl5r0r7l2jmrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBlsdPOz-2XhkQ1b_tGCJqV9zsH2ZdBNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979544264587-aa0d312dcf6un49qkcdbl5r0r7l2jmrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
